@@ -1,0 +1,7 @@
+artifacts
+typechain-types
+.env
+node_modules
+cache
+image/*
+modified/*
